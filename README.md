@@ -92,3 +92,28 @@ Introduce SLA tracking for routes with frequent delays.
 Focus on high-profit routes for expansion.
 
 Implement performance tracking dashboards at monthly level.
+
+🚀 Project Structure
+
+Data generation & analysis in Python
+
+KPI calculation & trend analysis
+
+Executive dashboard built in Tableau
+
+📌 Learning Outcomes
+
+End-to-end data analysis workflow
+
+KPI-driven business thinking
+
+Data visualization best practices
+
+Translating analysis into actionable insights
+
+ Author
+
+Diya Prithiani
+Aspiring Data Analyst
+Bachelor of Computer Applications (BCA)
+
